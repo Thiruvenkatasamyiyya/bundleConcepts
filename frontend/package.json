@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Thiruvenkatasamyiyya/bundleConcepts",
+  "homepage": "https://github.com/Thiruvenkatasamyiyya/bundleConcepts/frontend",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
